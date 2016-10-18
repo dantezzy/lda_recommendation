@@ -7,6 +7,8 @@
 #               random seed impact the topic distribution and the recommend result
 #               multiple models to generate average recommendation result
 
+# This is a test for github
+
 import os
 import nose
 import numpy
