@@ -1,0 +1,325 @@
+Rank list for doc: 0
+Doc:13
+Rank list for doc: 1
+Doc:78
+Rank list for doc: 2
+Doc:4
+Rank list for doc: 3
+Doc:48
+Rank list for doc: 4
+Doc:38
+Rank list for doc: 5
+Doc:128
+Rank list for doc: 6
+Doc:37
+Rank list for doc: 7
+Doc:45
+Rank list for doc: 8
+Doc:45
+Rank list for doc: 9
+Doc:83
+Rank list for doc: 10
+Doc:33
+Rank list for doc: 11
+Doc:45
+Rank list for doc: 12
+Doc:82
+Rank list for doc: 13
+Doc:96
+Rank list for doc: 14
+Doc:15
+Rank list for doc: 15
+Doc:84
+Rank list for doc: 16
+Doc:16
+Rank list for doc: 17
+Doc:25
+Rank list for doc: 18
+Doc:18
+Rank list for doc: 19
+Doc:19
+Rank list for doc: 20
+Doc:20
+Rank list for doc: 21
+Doc:56
+Rank list for doc: 22
+Doc:109
+Rank list for doc: 23
+Doc:23
+Rank list for doc: 24
+Doc:24
+Rank list for doc: 25
+Doc:15
+Rank list for doc: 26
+Doc:78
+Rank list for doc: 27
+Doc:13
+Rank list for doc: 28
+Doc:141
+Rank list for doc: 29
+Doc:29
+Rank list for doc: 30
+Doc:89
+Rank list for doc: 31
+Doc:118
+Rank list for doc: 32
+Doc:32
+Rank list for doc: 33
+Doc:40
+Rank list for doc: 34
+Doc:114
+Rank list for doc: 35
+Doc:13
+Rank list for doc: 36
+Doc:36
+Rank list for doc: 37
+Doc:37
+Rank list for doc: 38
+Doc:7
+Rank list for doc: 39
+Doc:31
+Rank list for doc: 40
+Doc:40
+Rank list for doc: 41
+Doc:41
+Rank list for doc: 42
+Doc:13
+Rank list for doc: 43
+Doc:45
+Rank list for doc: 44
+Doc:56
+Rank list for doc: 45
+Doc:45
+Rank list for doc: 46
+Doc:13
+Rank list for doc: 47
+Doc:37
+Rank list for doc: 48
+Doc:48
+Rank list for doc: 49
+Doc:5
+Rank list for doc: 50
+Doc:50
+Rank list for doc: 51
+Doc:63
+Rank list for doc: 52
+Doc:52
+Rank list for doc: 53
+Doc:53
+Rank list for doc: 54
+Doc:63
+Rank list for doc: 55
+Doc:55
+Rank list for doc: 56
+Doc:81
+Rank list for doc: 57
+Doc:57
+Rank list for doc: 58
+Doc:58
+Rank list for doc: 59
+Doc:88
+Rank list for doc: 60
+Doc:5
+Rank list for doc: 61
+Doc:5
+Rank list for doc: 62
+Doc:62
+Rank list for doc: 63
+Doc:63
+Rank list for doc: 64
+Doc:86
+Rank list for doc: 65
+Doc:65
+Rank list for doc: 66
+Doc:73
+Rank list for doc: 67
+Doc:104
+Rank list for doc: 68
+Doc:85
+Rank list for doc: 69
+Doc:69
+Rank list for doc: 70
+Doc:75
+Rank list for doc: 71
+Doc:55
+Rank list for doc: 72
+Doc:72
+Rank list for doc: 73
+Doc:76
+Rank list for doc: 74
+Doc:50
+Rank list for doc: 75
+Doc:75
+Rank list for doc: 76
+Doc:63
+Rank list for doc: 77
+Doc:64
+Rank list for doc: 78
+Doc:78
+Rank list for doc: 79
+Doc:79
+Rank list for doc: 80
+Doc:80
+Rank list for doc: 81
+Doc:81
+Rank list for doc: 82
+Doc:21
+Rank list for doc: 83
+Doc:49
+Rank list for doc: 84
+Doc:84
+Rank list for doc: 85
+Doc:85
+Rank list for doc: 86
+Doc:62
+Rank list for doc: 87
+Doc:68
+Rank list for doc: 88
+Doc:5
+Rank list for doc: 89
+Doc:56
+Rank list for doc: 90
+Doc:30
+Rank list for doc: 91
+Doc:91
+Rank list for doc: 92
+Doc:92
+Rank list for doc: 93
+Doc:68
+Rank list for doc: 94
+Doc:94
+Rank list for doc: 95
+Doc:131
+Rank list for doc: 96
+Doc:15
+Rank list for doc: 97
+Doc:97
+Rank list for doc: 98
+Doc:73
+Rank list for doc: 99
+Doc:69
+Rank list for doc: 100
+Doc:100
+Rank list for doc: 101
+Doc:15
+Rank list for doc: 102
+Doc:33
+Rank list for doc: 103
+Doc:148
+Rank list for doc: 104
+Doc:128
+Rank list for doc: 105
+Doc:137
+Rank list for doc: 106
+Doc:106
+Rank list for doc: 107
+Doc:107
+Rank list for doc: 108
+Doc:108
+Rank list for doc: 109
+Doc:109
+Rank list for doc: 110
+Doc:148
+Rank list for doc: 111
+Doc:124
+Rank list for doc: 112
+Doc:112
+Rank list for doc: 113
+Doc:126
+Rank list for doc: 114
+Doc:114
+Rank list for doc: 115
+Doc:134
+Rank list for doc: 116
+Doc:116
+Rank list for doc: 117
+Doc:129
+Rank list for doc: 118
+Doc:25
+Rank list for doc: 119
+Doc:149
+Rank list for doc: 120
+Doc:120
+Rank list for doc: 121
+Doc:134
+Rank list for doc: 122
+Doc:122
+Rank list for doc: 123
+Doc:123
+Rank list for doc: 124
+Doc:148
+Rank list for doc: 125
+Doc:125
+Rank list for doc: 126
+Doc:126
+Rank list for doc: 127
+Doc:127
+Rank list for doc: 128
+Doc:37
+Rank list for doc: 129
+Doc:85
+Rank list for doc: 130
+Doc:130
+Rank list for doc: 131
+Doc:101
+Rank list for doc: 132
+Doc:124
+Rank list for doc: 133
+Doc:141
+Rank list for doc: 134
+Doc:130
+Rank list for doc: 135
+Doc:71
+Rank list for doc: 136
+Doc:136
+Rank list for doc: 137
+Doc:131
+Rank list for doc: 138
+Doc:138
+Rank list for doc: 139
+Doc:139
+Rank list for doc: 140
+Doc:149
+Rank list for doc: 141
+Doc:141
+Rank list for doc: 142
+Doc:53
+Rank list for doc: 143
+Doc:114
+Rank list for doc: 144
+Doc:144
+Rank list for doc: 145
+Doc:64
+Rank list for doc: 146
+Doc:149
+Rank list for doc: 147
+Doc:147
+Rank list for doc: 148
+Doc:141
+Rank list for doc: 149
+Doc:149
+
+Recommendation Result:
+
+The number of correct doc in top 1 is:58
+The accuracy of top 1 is:38.6666666667%
+
+The number of correct tag in top 1 is:119
+The accuracy of tag top 1 is:79.3333333333%
+
+The number of correct doc in top 2 is:69
+The accuracy of top 2 is:46.0%
+
+The number of correct tag in top 2 is:134
+The accuracy of tag top 2 is:89.3333333333%
+
+The number of correct doc in top 3 is:86
+The accuracy of top 3 is:57.3333333333%
+
+The number of correct tag in top 3 is:143
+The accuracy of tag top 3 is:95.3333333333%
+
+The number of total doc length less than 200 is:150
+The number of total doc length between 200 to 500 is:0
+The number of total doc length lager than 500 is:0
+
